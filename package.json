@@ -2,7 +2,7 @@
     "name": "com.burak.securesecretmanager",
     "author": "Burak Aydin",
     "displayName": "Secure Secret Manager",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2020.3",
     "description": "Securely store credentials on iOS and Android platforms"
 }
